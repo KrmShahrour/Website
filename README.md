@@ -11,4 +11,4 @@ NLP and Machine Learning
 
 Excel & Power BI for visualization
 
-Certified as an IBM Data Analysis Professional, I combine technical expertise with analytical thinking to solve real-world problems.
+Certified as an IBM Data Science Professional, I combine technical expertise with analytical thinking to solve real-world problems.
